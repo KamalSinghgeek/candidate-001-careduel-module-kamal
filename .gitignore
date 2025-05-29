@@ -1,4 +1,6 @@
-# Node modules
 node_modules/
 client/node_modules/
 server/node_modules/
+.env
+.env.local
+.DS_Store
